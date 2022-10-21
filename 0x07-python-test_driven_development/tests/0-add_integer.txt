@@ -90,7 +90,6 @@ Adding two float numbers (a = 1.2 and b = 4.2)
 Case Overflow:
 
     >>> add_integer(float('inf'), 0)
-
     Traceback (most recent call last):
     	      ...
     OverflowError: cannot convert float infinity to integer
