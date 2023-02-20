@@ -1,1 +1,1 @@
-0x15. JavaScript - Web jQuery
+Javascript web query
